@@ -17,8 +17,10 @@ Another concept from Sweller that resonates strongly with software development i
 
 ## Practical implications
 
-Be concise.
-    - Working memory is precious for both humans and AI systems.
-    - Reviewer fatigue can allow undesirable changes to be merged as scrutiny declines.
-Stay involved, make decisions, and don’t become a human proxy between AI systems.
-Keep code and its documentation in small, semantically scoped containers.
+**Be concise**.
+- Working memory is precious for both humans and AI systems.
+- Reviewer fatigue can allow undesirable changes to be merged as scrutiny declines.
+
+Stay involved, make decisions, and **don’t become a human proxy** between AI systems.
+
+Keep code and its documentation in small, **semantically scoped** containers.
